@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi, nice to meet you 👋! 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecktors)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=hecktors&show_icons=true&theme=vue-dark&line_height=28&hide_title=true&hide=stars&hide_border=true)
+---
+setTorstenState(☕️?😳:😴)
+
+
+
 
 <!--
-**Hecktors/Hecktors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hecktors&repo=rueda-de-casino)](https://github.com/)
 -->
+
+
+
+
